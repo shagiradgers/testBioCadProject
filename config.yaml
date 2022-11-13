@@ -1,0 +1,10 @@
+# db
+filePath: "db.sqlite"
+
+# server
+host: "localhost"
+port: "8080"
+
+# file
+rootPath: "inputData"
+outputPath: "outputData"
